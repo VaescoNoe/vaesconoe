@@ -1,21 +1,13 @@
-### HI, I'm Noe 👋:computer:
+### Hi, I'm Noe 👋:computer:
 
 
 ```javascript
 const noe = {
   pronouns: "he" | "him",
-  code: [Javascript, Java],
-  tools: [ApiGee],
-  architecture: ["", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, Java, C#],
+  tools: [Blender, Unity, Unreal Engine 4, Vuforia, Photoshop]
 }
 ```
-
 <!--
 **VaescoNoe/vaesconoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
