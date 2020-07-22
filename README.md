@@ -3,7 +3,7 @@
 ```javascript
 const noe = {
   "pronouns": "he" | "him",
-  "code": ["Java", "Javascript", "C#"],
+  "code": ["Java", "Javascript", "C#", "Dart"],
   "tools": {"Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
 }
 ```
