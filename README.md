@@ -4,7 +4,8 @@
 const noe = {
   "pronouns": "he" | "him",
   "code": ["Java", "Javascript", "C#", "Dart"],
-  "tools": {"Spring":[
+  "tools": {
+            "Spring":[
                       "thymeleaf",
                       "@Controller",
                       "@RequestMapping",
