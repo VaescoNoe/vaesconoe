@@ -1,13 +1,16 @@
-### Hi, I'm Noe 👋:computer:
-
+### Hi, I'm <h1>Noe Vargas</h1> 👋:computer:
 
 ```javascript
 const noe = {
-  pronouns: "he" | "him",
-  code: [Javascript, Java, C#],
-  tools: [Blender, Unity, Unreal Engine 4, Vuforia, Photoshop]
+  "pronouns": "he" | "him",
+  "code": ["Java", "Javascript", "C#"],
+  "tools": {"Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":{}}
 }
 ```
+
+<h2>We can find me:earth_americas:</h2>
+
+
 <!--
 **VaescoNoe/vaesconoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
