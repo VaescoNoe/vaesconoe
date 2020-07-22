@@ -4,7 +4,11 @@
 const noe = {
   "pronouns": "he" | "him",
   "code": ["Java", "Javascript", "C#", "Dart"],
-  "tools": {"Spring":{},"Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
+  "tools": {"Spring":[
+                      "@Controller",
+                      "@RequestMapping",
+                      "@GetMapping"],
+             "Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
 }
 ```
 
