@@ -11,4 +11,4 @@ const noe = {
 <h2>We can find me:earth_americas:</h2>
 <p>:mailbox: vaesconoe@gmail.com</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_langs_below=1)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_langs_below=1)
