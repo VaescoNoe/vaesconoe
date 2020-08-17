@@ -8,6 +8,7 @@ const noe = {
             "Spring":[
                       "thymeleaf","HTML","Css"
                       ],
+             "Angular":[],
              "Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
 }
 ```
