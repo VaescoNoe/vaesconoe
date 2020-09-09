@@ -6,7 +6,7 @@ const noe = {
   "code": ["Java", "Javascript", "C#", "Dart"],
   "tools": {
             "Spring":[
-                      "thymeleaf","HTML","Css"
+                      "thymeleaf"
                       ],
              "Angular":[],
              "Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
