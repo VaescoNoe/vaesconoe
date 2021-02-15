@@ -2,14 +2,7 @@
 
 ```javascript
 const noe = {
-  "pronouns": "he" | "him",
-  "code": ["Java", "Javascript", "C#", "Dart"],
-  "tools": {
-            "Spring":[
-                      "thymeleaf"
-                      ],
-             "Angular":[],
-             "Blender":{}, "Unity":{}, "Unreal Engine 4":{}, "Vuforia":{}, "Photoshop":["Fundamentals"]}
+  "pronouns": "he" | "him"}
 }
 ```
 
