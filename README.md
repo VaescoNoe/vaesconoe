@@ -6,10 +6,8 @@ const noe = {
 }
 ```
 
-<p>I'm a student in video game development:video_game:</p>
 <p>I'm currently working on APIS development with APIGEE:key:</p>
 
 <h2>We can find me:earth_americas:</h2>
 <p>:mailbox: <strong>vaesconoe@gmail.com<strong></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_langs_below=1)
